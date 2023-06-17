@@ -1,5 +1,6 @@
-import inquirer from "inquirer";
+// import inquirer from "inquirer";
 const fs = require('fs');
+const Shape = require('./lib/shapes')
 
 const questions = [
   {
@@ -8,3 +9,7 @@ const questions = [
     name: 'logoText',
   },
 ]
+
+
+const shape = new Shape("", "", "#00bfff");
+shape.shapeColor;
