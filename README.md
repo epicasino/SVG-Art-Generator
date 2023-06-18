@@ -16,6 +16,8 @@
 
 ## Usage
 
+**[For a Video Demo on Using Application, Click Here.](./assets/videos/svg-generator-demo.mp4)**
+
 **After typing `node index.js` in your command line, you will be greeted with input for your logo's text.**
 ![SVG Name input](./assets/images/node-index.png)
 **NOTE: if you input a name longer than three characters, you will be presented with this error:**
